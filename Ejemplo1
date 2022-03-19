@@ -1,0 +1,16 @@
+//En otro archivo  instancio  la clase y llamo al método:
+package ejemplopkg;
+
+public class ejemplo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Celular Celular = new Celular();
+		
+		Celular.llamar("valentin");
+
+	}
+
+}
+
